@@ -12,7 +12,7 @@ Vocabulary
 elements have the following syntax: &lt;tag attribute="value"&gt;content&lt;/tag&gt;
 
 Block vs. Inline
-block-level elements always starts on a new line and take up the full width available
+block-level elements always starts on a new line and take up the full width availabl
 inline-elements do not start on a new line and only takes up as much width as necessary
 
 Block-level elements
